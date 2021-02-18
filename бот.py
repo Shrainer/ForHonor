@@ -1,6 +1,6 @@
 import requests
 from time import sleep
-url = "https://api.telegram.org/bot637253940:AAGGm70grKmfq6U8jLbm2JTFIZbiuLx5YAc/"
+url = "https://api.telegram.org/bot1111:don'tstealmytoken/"
 
 
 
